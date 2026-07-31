@@ -1,4 +1,4 @@
-const CACHE_NAME = 'fc26-dashboard-v1.3.3';
+const CACHE_NAME = 'fc26-dashboard-v1.4.0';
 const APP_FILES = [
   './',
   './index.html',

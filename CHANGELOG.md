@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.4.0
+
+- Eigenen Reiter „Abstoßvergleich“ ergänzt
+- EA-Steuer und Netto-Auszahlung eines Verkaufspreises berechnet
+- Verkaufserlös direkt mit dem Abstoßpreis verglichen
+- Klare Empfehlung für Verkaufen oder Abstoßen ergänzt
+- Mindestverkaufspreis berechnet, ab dem der Transfermarkt mindestens gleichwertig ist
+- Sichtbaren In-App-Changelog auf die letzten fünf Versionen begrenzt
+
 ## v1.3.3 – Darstellungsfix
 
 - Positive Auszahlung im Modus „Auszahlung berechnen“ wird grün dargestellt

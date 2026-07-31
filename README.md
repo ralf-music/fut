@@ -10,13 +10,14 @@ Ein schnelles, vollständig lokales Trading-Werkzeug für EA FC 26 Ultimate Team
 - Favoriten, Notizen und Berechnungsverlauf lokal speichern
 - Massenverkauf mit Gesamtumsatz, Gesamtsteuer und Auszahlung berechnen
 - Erweiterter Massenverkauf mit Gesamtinvestition, Gesamtgewinn und ROI
+- Abstoßpreis mit dem Nettoerlös eines Transfermarktverkaufs vergleichen
 - Als Progressive Web App installieren und offline verwenden
 
 ## Nutzung
 
 Für die GitHub-Pages- oder PWA-Version alle Dateien dieses Ordners gemeinsam hochladen. Die Anwendung startet über `index.html`.
 
-Alternativ kann die einzelne Standalone-Datei `EA_FC26_Trading_Dashboard_v1.3.3.html` direkt im Browser geöffnet werden.
+Alternativ kann die einzelne Standalone-Datei `EA_FC26_Trading_Dashboard_v1.4.0.html` direkt im Browser geöffnet werden.
 
 ## Datenschutz
 
@@ -24,7 +25,7 @@ Alle Eingaben und gespeicherten Daten bleiben im lokalen Browser-Speicher des Ge
 
 ## Aktuelle Version
 
-**v1.3.3 – Darstellungsfix**
+**v1.4.0 – Abstoßvergleich**
 
 Details stehen in der Datei [CHANGELOG.md](CHANGELOG.md).
 
