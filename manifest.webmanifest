@@ -1,22 +1,22 @@
 {
-  "name": "Strickhelfer",
-  "short_name": "Strickhelfer",
-  "description": "Reihenzähler, Projektverwaltung und Rechner für Strickprojekte.",
+  "name": "EA FC 26 Trading Dashboard",
+  "short_name": "FC26 Trading",
+  "description": "Lokales Trading-Dashboard für EA FC 26 Ultimate Team mit Steuer-, Gewinn-, Sniping- und Massenverkaufsrechner.",
   "lang": "de-DE",
-  "start_url": "./",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#fff9fb",
-  "theme_color": "#c98295",
+  "background_color": "#03070d",
+  "theme_color": "#07111f",
   "icons": [
     {
-      "src": "icons/icon-192.png",
+      "src": "icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "icons/icon-512.png",
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
