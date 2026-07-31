@@ -16,7 +16,7 @@ Ein schnelles, vollständig lokales Trading-Werkzeug für EA FC 26 Ultimate Team
 
 Für die GitHub-Pages- oder PWA-Version alle Dateien dieses Ordners gemeinsam hochladen. Die Anwendung startet über `index.html`.
 
-Alternativ kann die einzelne Standalone-Datei `EA_FC26_Trading_Dashboard_v1.3.1.html` direkt im Browser geöffnet werden.
+Alternativ kann die einzelne Standalone-Datei `EA_FC26_Trading_Dashboard_v1.3.2.html` direkt im Browser geöffnet werden.
 
 ## Datenschutz
 
@@ -24,7 +24,7 @@ Alle Eingaben und gespeicherten Daten bleiben im lokalen Browser-Speicher des Ge
 
 ## Aktuelle Version
 
-**v1.3.1 – Bugfix Release**
+**v1.3.2 – Darstellungsfix**
 
 Details stehen in der Datei [CHANGELOG.md](CHANGELOG.md).
 
