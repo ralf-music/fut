@@ -1,6 +1,6 @@
 # Changelog
 
-## v1.3.2 – Darstellungsfix
+## v1.3.3 – Darstellungsfix
 
 - Positive Auszahlung im Modus „Auszahlung berechnen“ wird grün dargestellt
 - Keine weiteren Funktionen oder Gestaltungselemente verändert
