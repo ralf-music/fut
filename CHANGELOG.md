@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.4.1
+
+- Zahlen während der Eingabe mit Tausenderpunkten formatiert
+- Info-Bereich zur lokalen Datenspeicherung ergänzt
+- EA-Steuer überall als 5 % gekennzeichnet
+- Unterzeile im Abstoßvergleich vergrößert und Coinbetrag farbig hervorgehoben
+- Dezente Einblendanimation des Mottos ergänzt
+
 ## v1.4.0
 
 - Eigenen Reiter „Abstoßvergleich“ ergänzt
