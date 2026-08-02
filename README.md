@@ -1,53 +1,36 @@
 # EA FC 26 Trading Dashboard
 
-## Deutsch
+Ein schnelles, vollständig lokales Trading-Werkzeug für EA FC 26 Ultimate Team.
 
-Ein lokales Trading-Dashboard für EA FC 26 Ultimate Team.
+## Funktionen
 
-### Funktionen
+- EA-Steuer, Nettoerlös, Gewinn und ROI berechnen
+- Verkaufspreis ohne Verlust bestimmen
+- Zielgewinn und Sniping-Grenzen berechnen
+- Favoriten, Notizen und Berechnungsverlauf lokal speichern
+- Massenverkauf mit Gesamtumsatz, Gesamtsteuer und Auszahlung berechnen
+- Erweiterter Massenverkauf mit Gesamtinvestition, Gesamtgewinn und ROI
+- Abstoßpreis mit dem Nettoerlös eines Transfermarktverkaufs vergleichen
+- Zahlenformatierung während der Eingabe
+- Info-Bereich zur lokalen Datenspeicherung
+- Als Progressive Web App installieren und offline verwenden
 
-- EA-Steuer und Nettoerlös berechnen
-- Gewinn, Verlust und Rendite anzeigen
-- Verkaufspreis ohne Verlust ermitteln
-- Gewinnziel und Sniping-Grenzen berechnen
-- Massenverkauf auswerten
-- Transfermarktverkauf mit dem Abstoßpreis vergleichen
-- Favoriten, Notizen und Verlauf lokal speichern
-- Deutsch und Englisch umschalten
-- Als PWA installieren und offline verwenden
+## Nutzung
 
-### Datenspeicherung
+Für die GitHub-Pages- oder PWA-Version alle Dateien dieses Ordners gemeinsam hochladen. Die Anwendung startet über `index.html`.
 
-Alle Daten bleiben im Browser auf dem jeweiligen Gerät. Beim Löschen der Browserdaten oder des Website-Speichers gehen Favoriten, Notizen, Verlauf und Einstellungen verloren.
+Alternativ kann die einzelne Standalone-Datei `EA_FC26_Trading_Dashboard_v1.4.1.html` direkt im Browser geöffnet werden.
 
----
+## Datenschutz
 
-## English
+Alle Eingaben und gespeicherten Daten bleiben im lokalen Browser-Speicher des Geräts. Es gibt kein Konto, keine Cloud-Synchronisierung, keine Werbung und kein Tracking.
 
-A local trading dashboard for EA FC 26 Ultimate Team.
+## Aktuelle Version
 
-### Features
+**v1.4.1 – Abstoßvergleich**
 
-- Calculate EA tax and net proceeds
-- Display profit, loss and return
-- Calculate the minimum selling price without a loss
-- Calculate profit targets and sniping limits
-- Evaluate bulk sales
-- Compare transfer-market proceeds with the quick-sell value
-- Store favourites, notes and history locally
-- Switch between German and English
-- Install as a PWA and use offline
+Details stehen in der Datei [CHANGELOG.md](CHANGELOG.md).
 
-### Data storage
+## Hinweis
 
-All data remains in the browser on the current device. Deleting browser data or site storage removes favourites, notes, history and settings.
-
----
-
-## Current version
-
-**v1.5.0**
-
-## Disclaimer
-
-This is an independent fan-made project and is not affiliated with or endorsed by Electronic Arts.
+Dieses unabhängige Fanprojekt steht in keiner Verbindung zu Electronic Arts. EA SPORTS FC und Ultimate Team sind Marken ihrer jeweiligen Rechteinhaber.
