@@ -2,52 +2,20 @@
 
 ## Deutsch
 
-Ein lokales Trading-Dashboard für EA FC 26 Ultimate Team.
+Lokales Trading-Dashboard für EA FC 26 Ultimate Team mit Steuer-, Gewinn-, Sniping-, Massenverkaufs- und Abstoßvergleich.
 
-### Funktionen
-
-- EA-Steuer und Nettoerlös berechnen
-- Gewinn, Verlust und Rendite anzeigen
-- Verkaufspreis ohne Verlust ermitteln
-- Gewinnziel und Sniping-Grenzen berechnen
-- Massenverkauf auswerten
-- Transfermarktverkauf mit dem Abstoßpreis vergleichen
-- Favoriten, Notizen und Verlauf lokal speichern
-- Deutsch und Englisch umschalten
-- Als PWA installieren und offline verwenden
-
-### Datenspeicherung
-
-Alle Daten bleiben im Browser auf dem jeweiligen Gerät. Beim Löschen der Browserdaten oder des Website-Speichers gehen Favoriten, Notizen, Verlauf und Einstellungen verloren.
-
----
+Die Oberfläche kann zwischen Deutsch und Englisch umgeschaltet werden. Die gewählte Sprache wird lokal gespeichert.
 
 ## English
 
-A local trading dashboard for EA FC 26 Ultimate Team.
+Local trading dashboard for EA FC 26 Ultimate Team with tax, profit, sniping, bulk-selling and quick-sell comparison tools.
 
-### Features
+The interface can be switched between German and English. The selected language is stored locally.
 
-- Calculate EA tax and net proceeds
-- Display profit, loss and return
-- Calculate the minimum selling price without a loss
-- Calculate profit targets and sniping limits
-- Evaluate bulk sales
-- Compare transfer-market proceeds with the quick-sell value
-- Store favourites, notes and history locally
-- Switch between German and English
-- Install as a PWA and use offline
+## Version
 
-### Data storage
-
-All data remains in the browser on the current device. Deleting browser data or site storage removes favourites, notes, history and settings.
-
----
-
-## Current version
-
-**v1.5.0**
+**v1.5.3**
 
 ## Disclaimer
 
-This is an independent fan-made project and is not affiliated with or endorsed by Electronic Arts.
+Independent fan-made project. Not affiliated with or endorsed by Electronic Arts.

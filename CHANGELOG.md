@@ -1,12 +1,20 @@
 # Changelog
 
-## v1.5.0
+## v1.5.3
+
+- Britische Sprachflagge durch eine korrekte Union-Jack-Darstellung als Inline-SVG ersetzt
+
+## v1.5.2
+
+- Emoji-Flaggen durch CSS-gezeichnete deutsche und britische Flaggen ersetzt
+
+## v1.5.1
 
 - Deutsche und englische Oberfläche ergänzt
-- Kleine Sprachschalter mit deutscher und britischer Flagge im Header ergänzt
+- Kleine Sprachschalter mit deutscher und britischer Flagge ergänzt
+- Fehlerhafte selbstbeobachtende Übersetzungslogik aus v1.5.0 entfernt
 - Gewählte Sprache wird lokal gespeichert
-- Zahlenformat bleibt sprachunabhängig mit Punkten als Tausendertrennzeichen
-- README zweisprachig aufgebaut
+- Zahlenformat bleibt in beiden Sprachen unverändert
 
 ## v1.4.1
 
