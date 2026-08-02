@@ -14,11 +14,11 @@ Lokales und zweisprachiges Trading-Werkzeug für EA FC Ultimate Team.
 
 ## Version
 
-**v1.7.0**
+**v1.7.1**
 
 ## Dateistruktur
 
-Das Projekt besteht weiterhin aus neun Dateien. Es wurden keine Dateien hinzugefügt, umbenannt oder entfernt.
+Das Projekt besteht jetzt aus zehn Dateien. Neu hinzugekommen ist `calculator-icon.svg`.
 
 ## Kompatibilität
 

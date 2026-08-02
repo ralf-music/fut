@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.7.1
+
+- Eigenes geräteunabhängiges Taschenrechner-Icon ergänzt
+- Taschenrechner-Button auf die neue SVG-Datei umgestellt
+- Projektdateistruktur von 9 auf 10 Dateien erweitert
+
 ## v1.7.0
 
 - Projektname auf EA FC Trading Dashboard umgestellt

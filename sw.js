@@ -1,4 +1,4 @@
-const CACHE_NAME = 'fc-trading-dashboard-v1.7.0';
+const CACHE_NAME = 'fc-trading-dashboard-v1.7.1';
 const APP_FILES = [
   './',
   './index.html',
@@ -6,7 +6,8 @@ const APP_FILES = [
   './favicon-64.png',
   './icon-192.png',
   './icon-512.png',
-  './td-logo.webp'
+  './td-logo.webp',
+  './calculator-icon.svg'
 ];
 
 self.addEventListener('install', event => {
