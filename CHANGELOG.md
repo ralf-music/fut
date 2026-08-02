@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.5.0
+
+- Deutsche und englische Oberfläche ergänzt
+- Kleine Sprachschalter mit deutscher und britischer Flagge im Header ergänzt
+- Gewählte Sprache wird lokal gespeichert
+- Zahlenformat bleibt sprachunabhängig mit Punkten als Tausendertrennzeichen
+- README zweisprachig aufgebaut
+
 ## v1.4.1
 
 - Zahlen während der Eingabe mit Tausenderpunkten formatiert
