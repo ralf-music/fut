@@ -1,5 +1,18 @@
 # Changelog
 
+## v1.6.0
+
+- Übersetzungssystem auf zentrale Sprachschlüssel umgestellt
+- Statische und dynamische Texte zentralisiert
+- Automatische Prüfung identischer Sprachschlüssel ergänzt
+- Deutsch und Englisch vollständig abgeglichen
+- Grundlage für weitere Sprachen geschaffen
+
+## v1.5.5
+
+- Fehlende englische Übersetzungen im Info-Fenster ergänzt
+- Fehlende englische Übersetzungen im In-App-Changelog ergänzt
+
 ## v1.5.4
 
 - Sprachumschaltung auf Basis der stabilen v1.4.1 vollständig neu aufgebaut
