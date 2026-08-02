@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.6.1
+
+- Dynamische Texte im normalen Rechner vollständig übersetzt
+- Dynamische Texte im Massenverkauf vollständig übersetzt
+- Steuerhinweis und Karten-Unterzeilen sprachabhängig gemacht
+
 ## v1.6.0
 
 - Übersetzungssystem auf zentrale Sprachschlüssel umgestellt

@@ -6,4 +6,4 @@ All interface texts use central language keys. A new language can be added by cr
 
 ## Version
 
-**v1.6.0**
+**v1.6.1**
