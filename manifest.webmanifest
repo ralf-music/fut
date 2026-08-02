@@ -1,7 +1,7 @@
 {
-  "name": "EA FC 26 Trading Dashboard",
-  "short_name": "FC26 Trading",
-  "description": "Bilingual local trading dashboard for EA FC 26 Ultimate Team.",
+  "name": "EA FC Trading Dashboard",
+  "short_name": "FC Trading",
+  "description": "Bilingual local EA FC trading dashboard with tax, profit, bulk-sale, quick-sell and calculator tools.",
   "lang": "de-DE",
   "start_url": "./index.html",
   "scope": "./",

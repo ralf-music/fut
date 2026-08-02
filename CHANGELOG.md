@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.7.0
+
+- Projektname auf EA FC Trading Dashboard umgestellt
+- Kompakten Taschenrechner im Header ergänzt
+- Einsteiger-Trading-Guide ergänzt
+- Änderungen-Button entfernt; Versionsnummer öffnet jetzt den Changelog
+- Mobile Darstellung verdichtet und Übersetzungen vervollständigt
+
 ## v1.6.1
 
 - Dynamische Texte im normalen Rechner vollständig übersetzt
