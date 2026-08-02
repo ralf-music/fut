@@ -1,7 +1,7 @@
 {
   "name": "EA FC 26 Trading Dashboard",
   "short_name": "FC26 Trading",
-  "description": "Lokales Trading-Dashboard für EA FC 26 Ultimate Team mit Steuer-, Gewinn-, Sniping-, Massenverkaufs- und Abstoßvergleich.",
+  "description": "Bilingual local trading dashboard for EA FC 26 Ultimate Team with tax, profit, sniping, bulk-selling and quick-sell comparison tools.",
   "lang": "de-DE",
   "start_url": "./index.html",
   "scope": "./",
